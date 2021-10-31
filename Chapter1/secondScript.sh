@@ -1,0 +1,4 @@
+# The secondScript.sh script
+#!/bin/bash
+name="Another Name"
+echo $name
