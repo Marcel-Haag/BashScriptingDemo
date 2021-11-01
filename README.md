@@ -7,7 +7,7 @@ It contains the supporting project files necessary to work through the book from
 
 ## Configure bash text editor
 
-### vim
+### vim `$HOME/.vimrc`
 `set showmode` \
 Ensures we see when we are in insert mode \
 `set nohlsearch`\
@@ -21,7 +21,7 @@ Converts tab into spaces, which is useful when the file moves to other systems \
 `syntax on` \
 Note: This does not use the `set` command and is used to turn on syntax highlighting
 
-### nano
+### nano `$HOME/.nanorc`
 `set autoindent` \
 `set tabsize 4` \
 `include /usr/share/nano/sh.nanorc`
