@@ -3,7 +3,7 @@ A practical demo to Linux command-line, Bash scripting, and Shell programming
 
 ## About this Repository
 This is the code repository for my own work through of the  Mastering Linux Shell Scripting - Second Edition, published by [Packt](https://www.packtpub.com/?utm_source=github). \
-It contains the supporting project files necessary to work through the book from start to finish.
+It contains the project files from the book from start to finish as well as some additional scripts.
 
 ## Configure bash text editor
 
@@ -19,7 +19,7 @@ Sets a tab to be four spaces \
 `set expandtab` \
 Converts tab into spaces, which is useful when the file moves to other systems \
 `syntax on` \
-Note: This does not use the `set` command and is used to turn on syntax highlighting
+**Note:** This does not use the `set` command and is used to turn on syntax highlighting
 
 ### nano `$HOME/.nanorc`
 `set autoindent` \
