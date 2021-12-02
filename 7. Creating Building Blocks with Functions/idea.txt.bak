@@ -1,0 +1,9 @@
+use:
+
+
+    uptime
+    20:11  up 38 mins, 4 users, load averages: 1.38 1.91 2.84
+to create script that:
+
+    shutdown -h now
+after up == 2 hours
